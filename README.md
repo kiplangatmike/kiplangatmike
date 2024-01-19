@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mike Kiplangat
+- 👋 Hi, I’m @Mike Kiplangat.
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently focused on front end dev
 - 💞️ I’m looking to collaborate on any exciting web dev project
